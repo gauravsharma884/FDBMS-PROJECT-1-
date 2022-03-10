@@ -3,7 +3,7 @@ MOTORCYCLE SPARE PARTS INVENTORY MANAGEMENT SYSTEM DATABASE DESIGN
 
 ## About Project
 
-This is a database management class projects. I designed a Motor Spare Parts Inventory Database Managment system with ER diagram and schema diagram
+This is a database management class projects. I designed a Motorcycle Spare Parts Inventory Database Managment system with ER diagram 
 
 ### What this system can do:
 
